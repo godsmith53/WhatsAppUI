@@ -1,16 +1,39 @@
-# whatsappui
 
-A new Flutter project.
+# WhatsAppUI
 
-## Getting Started
+This is an Application replicating whatsApp's UI using Flutter
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Run Locally
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  git clone https://github.com/godsmith53/WhatsAppUI
+```
+
+Go to the project directory
+
+```bash
+  cd whatsappui
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Start the App
+
+```bash
+  flutter run
+```
+
+
+## Screenshots
+
+![App Screenshot](https://github.com/godsmith53/JusPay/assets/80919460/42c4bb5b-dbf0-489e-b706-817802cba510)
+
+![App Screenshot](https://github.com/godsmith53/JusPay/assets/80919460/5d57747d-f62c-4e1c-9fbb-485af7975b23)
+
